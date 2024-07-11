@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
             Random random = new Random();
             int favNumber = random.Next(1, 100);
             
